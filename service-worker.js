@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reactGameofLife/precache-manifest.0c73e1f9a276f8b082fb2b0c1d39a103.js"
+  "/reactGameofLife/precache-manifest.0824cfdef1932e28db2b7793266bd074.js"
 );
 
 self.addEventListener('message', (event) => {
