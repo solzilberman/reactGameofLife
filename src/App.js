@@ -427,7 +427,7 @@ function App() {
             </Button>
             <Button style={{ width: '200px', marginBottom: '10px' }} onClick={() => stillLife('voyager')} variant="outlined" color="primary">
 
-              <h4 style={{ marginRight: '20px' }}>Voyager</h4>
+              <h4 style={{ marginRight: '5px' }}>Voyager</h4>
               <img alt="Game of life animated LWSS.gif" src="//upload.wikimedia.org/wikipedia/commons/3/37/Game_of_life_animated_LWSS.gif" decoding="async" width="115" height="84" data-file-width="115" data-file-height="84" />
 
             </Button>
