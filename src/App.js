@@ -143,6 +143,21 @@ function App() {
 
         });
       });
+    if (type == 'beacon')
+      setGrid(g => {
+        return produce(g, gridCopy => {
+          gridCopy[10][10] = 1
+          gridCopy[11][10] = 1
+          gridCopy[10][9] = 1
+          gridCopy[11][9] = 1
+
+          gridCopy[12][11] = 1
+          gridCopy[12][12] = 1
+          gridCopy[13][11] = 1
+          gridCopy[13][12] = 1
+
+        });
+      });
     if (type == 'blinker')
       setGrid(g => {
         return produce(g, gridCopy => {
@@ -383,9 +398,9 @@ function App() {
               <img alt="Game of life toad.gif" src="//upload.wikimedia.org/wikipedia/commons/1/12/Game_of_life_toad.gif" decoding="async" width="98" height="98" data-file-width="98" data-file-height="98" />
 
             </Button>
-            <Button style={{ width: '200px', marginBottom: '10px' }} onClick={() => stillLife('beehive')} variant="outlined" color="primary">
+            <Button style={{ width: '200px', marginBottom: '10px' }} onClick={() => stillLife('beacon')} variant="outlined" color="primary">
 
-              <h4 style={{ marginRight: '20px' }}>Beehive</h4>
+              <h4 style={{ marginRight: '20px' }}>Beacon</h4>
               <img alt="Game of life beacon.gif" src="//upload.wikimedia.org/wikipedia/commons/1/1c/Game_of_life_beacon.gif" decoding="async" width="98" height="98" data-file-width="98" data-file-height="98" />
 
             </Button>
