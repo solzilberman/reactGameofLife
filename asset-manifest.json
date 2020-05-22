@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reactGameofLife/static/css/main.0865b047.chunk.css",
-    "main.js": "/reactGameofLife/static/js/main.78209f09.chunk.js",
-    "main.js.map": "/reactGameofLife/static/js/main.78209f09.chunk.js.map",
-    "runtime-main.js": "/reactGameofLife/static/js/runtime-main.cb1ef529.js",
-    "runtime-main.js.map": "/reactGameofLife/static/js/runtime-main.cb1ef529.js.map",
-    "static/js/2.9b6eb01e.chunk.js": "/reactGameofLife/static/js/2.9b6eb01e.chunk.js",
-    "static/js/2.9b6eb01e.chunk.js.map": "/reactGameofLife/static/js/2.9b6eb01e.chunk.js.map",
-    "index.html": "/reactGameofLife/index.html",
-    "precache-manifest.adc0c8fe50fd3db979d1d64deca927a9.js": "/reactGameofLife/precache-manifest.adc0c8fe50fd3db979d1d64deca927a9.js",
-    "service-worker.js": "/reactGameofLife/service-worker.js",
-    "static/css/main.0865b047.chunk.css.map": "/reactGameofLife/static/css/main.0865b047.chunk.css.map",
-    "static/js/2.9b6eb01e.chunk.js.LICENSE.txt": "/reactGameofLife/static/js/2.9b6eb01e.chunk.js.LICENSE.txt",
-    "static/media/beehive.svg": "/reactGameofLife/static/media/beehive.d420bb3e.svg",
-    "static/media/block.svg": "/reactGameofLife/static/media/block.d1356152.svg",
-    "static/media/flower.svg": "/reactGameofLife/static/media/flower.c4bfc774.svg"
+    "main.css": "/conwaygameoflife.org/static/css/main.0865b047.chunk.css",
+    "main.js": "/conwaygameoflife.org/static/js/main.c1fe9fc3.chunk.js",
+    "main.js.map": "/conwaygameoflife.org/static/js/main.c1fe9fc3.chunk.js.map",
+    "runtime-main.js": "/conwaygameoflife.org/static/js/runtime-main.90ad3f4e.js",
+    "runtime-main.js.map": "/conwaygameoflife.org/static/js/runtime-main.90ad3f4e.js.map",
+    "static/js/2.9b6eb01e.chunk.js": "/conwaygameoflife.org/static/js/2.9b6eb01e.chunk.js",
+    "static/js/2.9b6eb01e.chunk.js.map": "/conwaygameoflife.org/static/js/2.9b6eb01e.chunk.js.map",
+    "index.html": "/conwaygameoflife.org/index.html",
+    "precache-manifest.949da298513d27f1fd0034882cdcdad4.js": "/conwaygameoflife.org/precache-manifest.949da298513d27f1fd0034882cdcdad4.js",
+    "service-worker.js": "/conwaygameoflife.org/service-worker.js",
+    "static/css/main.0865b047.chunk.css.map": "/conwaygameoflife.org/static/css/main.0865b047.chunk.css.map",
+    "static/js/2.9b6eb01e.chunk.js.LICENSE.txt": "/conwaygameoflife.org/static/js/2.9b6eb01e.chunk.js.LICENSE.txt",
+    "static/media/beehive.svg": "/conwaygameoflife.org/static/media/beehive.d420bb3e.svg",
+    "static/media/block.svg": "/conwaygameoflife.org/static/media/block.d1356152.svg",
+    "static/media/flower.svg": "/conwaygameoflife.org/static/media/flower.c4bfc774.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb1ef529.js",
+    "static/js/runtime-main.90ad3f4e.js",
     "static/js/2.9b6eb01e.chunk.js",
     "static/css/main.0865b047.chunk.css",
-    "static/js/main.78209f09.chunk.js"
+    "static/js/main.c1fe9fc3.chunk.js"
   ]
 }
