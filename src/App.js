@@ -31,7 +31,7 @@ const useStyles = makeStyles({
 
 });
 
-const hello = "hello"
+const testTest = "test"
 
 const numRows = 25;
 const numCols = 25;
